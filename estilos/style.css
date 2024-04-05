@@ -9,7 +9,7 @@
 html, body{
     height: 100vh;
     width: 100vw;
-    background-color: black;
+    
 }
 
 body{
@@ -42,5 +42,5 @@ iframe#tela{
     left: 22px;
     width: 269px;
     height: 470px;
-    background-size: cover;
+    
 }
